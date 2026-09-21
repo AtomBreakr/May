@@ -7,3 +7,13 @@ May is a "passion project" of mine inteneded to help me learn how teach AI to be
 ---
  
 - Speech-To-Text (currently using a predifned add-on)
+
+### To set up Virtual Environment
+---
+
+- run the commands "cd May" && "venv\Scripts\activate" (If first time opening project: run "cd May", "python -m venv venv","Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned", then "venv\Scripts\activate")
+
+### To Run Different Aspect
+---
+
+- Speech_To_Text: python -m Sp_To_Txt.Main
