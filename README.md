@@ -6,4 +6,4 @@ May is a "passion project" of mine inteneded to help me learn how teach AI to be
 ## Current Completable Tasks
 ---
  
-- 
+- Speech-To-Text (currently using a predifned add-on)
